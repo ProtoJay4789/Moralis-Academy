@@ -1,3 +1,6 @@
 body {
-  background-color: ;
+  background-color: beige;
+}
+.first-paragraph {
+  border:2px dashed darkblue;
 }
